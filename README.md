@@ -61,8 +61,7 @@ Python • n8n • FastAPI
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnandShah10&show_icons=true)
-
+[![Stats](https://github-readme-stats.vercel.app/api?username=AnandShah10)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 🌐 Connect With Me
