@@ -61,7 +61,11 @@ Python • n8n • FastAPI
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AnandShah10)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnandShah10&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnandShah10&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AnandShah10&theme=tokyonight)
 
 ---
 
