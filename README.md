@@ -1,16 +1,72 @@
-## Hi there 👋
+# Hi 👋 I'm Anand Shah
 
-<!--
-**AnandShah10/AnandShah10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Python Developer | Automation Specialist  
 
-Here are some ideas to get you started:
+I build intelligent systems using AI, Python, and automation tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+💻 Languages  
+Python • SQL • Java
+
+⚙️ Backend  
+Django • FastAPI • REST APIs • PostgreSQL
+
+🤖 AI / ML  
+LLM • LangChain • Machine Learning • Pandas • NumPy
+
+☁️ Cloud  
+Azure • AWS • Linux
+
+🔄 Automation  
+n8n • Selenium • Twilio API
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Autonomous Agent
+AI agent that performs automated tasks using tools and reasoning.
+
+Tech:
+Python • OpenAI • Django
+
+---
+
+### 📄 AI powered RMS 
+AI powered Hiring system that automates Hiring process.
+
+Tech:
+Python • OpenAI • Postgresql • Django
+
+---
+
+### 💬 WhatsApp AI Assistant
+AI chatbot integrated with WhatsApp for automated responses.
+
+Tech:
+Python • Wasender • OpenAI
+
+---
+
+### 🔄 AI Workflow Automation
+Automates business processes using AI and APIs.
+
+Tech:
+Python • n8n • FastAPI
+
+---
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AnandShah10&show_icons=true)
+
+---
+
+## 🌐 Connect With Me
+
+LinkedIn  
+Email  
+Portfolio
