@@ -61,9 +61,9 @@ Python • n8n • FastAPI
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AnandShah10&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=AnandShah10&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=AnandShah10&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=AnandShah10&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnandShah10&theme=tokyonight)
 
@@ -71,6 +71,5 @@ Python • n8n • FastAPI
 
 ## 🌐 Connect With Me
 
-LinkedIn  
-Email  
-Portfolio
+💼 [LinkedIn](https://www.linkedin.com/in/anand-shah-814590276/)  
+📧 [Email Me](mailto:shahanand1072004@gmail.com) 
