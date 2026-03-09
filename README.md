@@ -63,8 +63,6 @@ Python • n8n • FastAPI
 
 ![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=AnandShah10&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.zcy.dev/api/top-langs/?username=AnandShah10&layout=compact&theme=tokyonight)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=AnandShah10&theme=tokyonight)
 
 ---
